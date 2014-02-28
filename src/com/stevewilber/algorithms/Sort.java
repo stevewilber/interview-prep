@@ -91,8 +91,8 @@ public class Sort {
 	/**
 	 * I was amused by the idea of implementing the worst sorting
 	 * algorithm I could think of. This is super brute force search: permute the
-	 * array until it is sorted. Runs in O(n * n!), take ~30s to sort a 13 element
-	 * array on my 2.5Ghz Core i7
+	 * array until it is sorted. Runs in O(n * n!), takes ~30s to sort a 13 element
+	 * array on my 2.6Ghz Core i7
 	 * 
 	 * @param arr
 	 */
