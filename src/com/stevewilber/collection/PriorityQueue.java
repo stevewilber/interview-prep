@@ -5,7 +5,9 @@ import java.util.List;
 
 /**
  * An implementation of a priority queue using a binary heap. Insert and extract run
- * in O(log n) since the tree needs to be rebalanced with each operation
+ * in O(log n) since the tree needs to be adjusted to re-establish the heap property
+ * 
+ * I used this as a reference: http://www.cs.cornell.edu/courses/cs312/2007sp/lectures/lec25.html
  * 
  * @author swilber
  *
